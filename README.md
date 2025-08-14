@@ -1,1 +1,3 @@
-Esto es el codigo para la base de datos de test
+Esta es una base de datos! 
+Para el proyecto AlejandrIA
+
