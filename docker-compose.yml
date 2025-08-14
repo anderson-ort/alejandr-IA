@@ -1,11 +1,7 @@
-
-# Use root/example as user/password credentials
-
 services:
 
-  db:
+  super-mega-db:
     image: mysql
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: example
-    # (this is just an example, not intended to be a production configuration)
+      MYSQL_ROOT_PASSWORD: soy_una_taza123
